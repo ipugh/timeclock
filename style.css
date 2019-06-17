@@ -1,0 +1,15 @@
+#id {
+    border: 1px solid black;
+    text-align: center;
+    font: 20px Helvetica;
+}
+
+#id td {
+    border: 1px solid black;
+    height: 60px;
+    width: 60px;
+}
+
+#id td:hover {
+    background-color: green;
+}
